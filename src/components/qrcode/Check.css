@@ -1,0 +1,36 @@
+.check{
+    background: linear-gradient(to top right , #e46569 20%, #6e7fdf 80%); 
+    height: 100%;
+}
+
+.qr-code-check{
+    display: block;
+    margin-top: 50px;
+}
+
+.qr-code-check-layout{
+    position: relative;
+    padding: 150px 0;
+    height: 100%;
+}
+
+.qr-code-check-title{
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 36px;
+    color: white;
+}
+
+.qr-code-check-btn{
+    display: block;
+    background: #5169f1; 
+    padding: 15px;
+    border-radius: 6px;
+    border: none;
+    margin: 70px auto;
+}
+
+.qr-code-check-btn a{
+    color: white;
+}

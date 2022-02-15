@@ -1,0 +1,22 @@
+.layout-home-header{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.layout-home-calender{
+    width: 100%;
+    height: 570px;
+    border: 0;
+}
+
+.time-table__layout{
+    width: 100%;
+    height: 600px;
+}
+
+@media screen and (max-height : 550px) {
+    .time-table__layout{
+        height: 500px;
+    }
+}

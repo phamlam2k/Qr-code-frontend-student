@@ -1,0 +1,39 @@
+.private-layout{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.private-layout-content{
+    height: 88%;
+    overflow: scroll;
+}
+
+.private-layout-menu{
+    position: fixed;
+    background-color: #DFDFDF;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    bottom: 0;
+}
+
+.private-layout-menu-rest{
+    display: flex;
+    flex-direction: column;
+    font-size: 13px;
+    padding: 15px 0px;
+}
+
+.private-layout-menu-qr{
+    position: absolute;
+    bottom: 20px;
+    padding: 22px 15px;
+    border-radius: 300px;
+    font-size: 13px;
+    color: white;
+    background: linear-gradient(to top right , #273896 20%,  #ED1C24 90% ); 
+    display: flex;
+    flex-direction: column;
+}

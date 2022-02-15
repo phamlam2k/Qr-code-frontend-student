@@ -1,0 +1,13 @@
+.user-content{
+    width: 90%;
+    margin: auto;
+}
+
+.user-img{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius: 1000px;
+    overflow: hidden;
+    object-fit: cover;
+}

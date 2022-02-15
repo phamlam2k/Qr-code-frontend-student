@@ -1,0 +1,24 @@
+.list-header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.list-modal{
+    margin-top: 30px;
+}
+
+.list-modal-btn {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.list-modal-btn .ant-btn {
+    width: 80px;
+}
+
+.lists{
+    margin-top: 20px;
+}

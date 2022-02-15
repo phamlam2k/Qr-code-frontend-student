@@ -1,0 +1,38 @@
+.layout-login-logo{
+    display: block;
+    margin: auto;
+}
+.layout-login-title{
+    font-size: 22px;
+    text-align: center;
+    font-weight: 700;
+    background: linear-gradient(to right , #ED1C24 20%, #273896 80%); 
+    background-clip: text;
+    color: transparent;
+}
+
+.layout-login-form{
+    width: 70%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.layout-login-form-forgot{
+    text-align: left;
+    font-size: 14px;
+    color: #273896;
+}
+
+.layout-login-form .ant-form-item-label label{
+    font-size: 18px;
+}
+
+.layout-login-form-button{
+    display: block;
+    margin: 30px auto;
+    font-size: 18px;
+    width: 200px;
+    background-color: #273896; 
+    border-radius: 40px;
+    height: 50px;
+}
